@@ -6,7 +6,7 @@
   <artifactId>core</artifactId>
   <name>${project.artifactId}</name>
   <parent>
-    <artifactId>NotiJ</artifactId>
+    <artifactId>parent</artifactId>
     <groupId>ar.com.gm.notij</groupId>
     <version>0.0.1-SNAPSHOT</version>
     <relativePath>../parent</relativePath>
